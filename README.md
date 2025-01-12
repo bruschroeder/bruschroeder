@@ -12,7 +12,7 @@
 
 I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil :brazil:.
  
-- :briefcase: I worked on the Galeria Pagé (São Paulo, Brazil) as a front-end developer since feb 22 until jul 22 (5 months experience)
+- :briefcase: I worked on the Galeria Pagé (São Paulo, Brazil) as a front-end developer since Jan 22 until Jul 22 (6 months experience)
 
 - :mag_right: Looking for a job as a junior front-end developer
 
